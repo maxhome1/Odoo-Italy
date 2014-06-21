@@ -1,4 +1,4 @@
-Odoo-Italy
+Odoo-4-Italy
 ==========
 
 Odoo alternative Italian localization
