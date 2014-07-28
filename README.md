@@ -1,10 +1,10 @@
 Odoo-4-Italy
 ============
 
-Odoo (formerly OpenERP) alternative Italian localization
---------------------------------------------------------
+Odoo (formerly OpenERP) Italian localization
+--------------------------------------------
 
-We are pursuing an alternative branch aiming the integration between EU rules and Italian fiscal law.
+We are pursuing an alternative localization aiming the strong integration between OCA development and Italian fiscal law.
 
 Versions
 --------
@@ -24,3 +24,4 @@ See also
 --------
 
 http://www.zeroincombenze.eu/wiki/Odoo
+
