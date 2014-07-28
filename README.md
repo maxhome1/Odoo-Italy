@@ -1,17 +1,16 @@
 Odoo-4-Italy
 ============
 
-Odoo (formerly OpenERP) Italian localization
+Odoo Italian localization
 --------------------------------------------
 
 We are pursuing an alternative localization aiming the strong integration between OCA development and Italian fiscal law.
 
-Versions
---------
 
-**8.0** Odoo
+Target Odoo Version
+-------------------
 
-**7.0** OpenERP
+This project aims to Odoo V8.0
 
 
 History
