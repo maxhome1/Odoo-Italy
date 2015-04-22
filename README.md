@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/antoniov/Odoo-Italy.svg)](https://travis-ci.org/antoniov/Odoo-Italy)
+[![Coverage Status](https://coveralls.io/repos/antoniov/Odoo-Italy/badge.svg)](https://coveralls.io/r/antoniov/Odoo-Italy)
+
 Odoo-4-Italy
 ============
 
@@ -12,6 +15,13 @@ Versions
 **8.0** Odoo
 
 **7.0** OpenERP
+
+Summary
+-------
+
+Sub-modules are:
+
+- l10_it_fiscal: Italian account of chart and tax codes
 
 
 History
