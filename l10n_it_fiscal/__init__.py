@@ -18,5 +18,7 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-
+#
+# Italian Chart of Account
+#
 from openerp import SUPERUSER_ID
