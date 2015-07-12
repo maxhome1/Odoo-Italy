@@ -24,5 +24,8 @@ Project started at June, 2014, currently working in progress.
 See also
 --------
 
-http://www.zeroincombenze.eu/wiki/OpenERP
+http://www.zeroincombenze.eu/wiki/Odoo
+
+
+[![Join Chat](https://badges.gitter.im/Join%20Chat.svg)] (https://gitter.im/antoniov/odoodevs)
 
